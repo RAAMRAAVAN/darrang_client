@@ -121,7 +121,7 @@ const ContactPage = () => {
                     left: 0,
                     width: '100%',
                     height: '100%',
-                    backgroundImage: "url(/background.webp)",
+                    backgroundImage: "url(/background.jpg)",
                     backgroundSize: "cover",
                     backgroundRepeat: "no-repeat",
                     backgroundPosition: "center",
